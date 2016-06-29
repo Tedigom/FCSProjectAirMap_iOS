@@ -3,7 +3,7 @@
 **Updat Date : 2016.06.27.**
 <br>
 ##**NAME**
-Air Map – 여행 경로 어플
+Air. Map – 여행 경로 어플
 <br>
 
 ##**MEMBERS**
